@@ -1,0 +1,62 @@
+h1 {
+
+    font-family: monospace;
+    font-size: 2.9em;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-weight: 500;
+
+  }
+
+
+div {
+    background-color: gray;
+}
+
+
+.contact {
+  padding: 25px 0 450px 0;
+  background: black;
+
+}
+
+i {
+  padding: 0 20px;
+  font-size: 0.8em;
+  font-size:48px;
+  color:red;
+}
+
+
+#contactform input,
+#contactform textarea {
+  margin-bottom: 15px;
+  width: 100%;
+  outline: none;
+  border: none;
+  //text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 16px;
+  color: red;
+}
+
+#contactform input {
+  padding-left: 15px;
+  height: 44px;
+  border-radius: 55px;
+}
+
+
+#contactform .btn {
+  width: 100%;
+  height: 50px;
+  border-radius: 0;
+  border: 1px solid #333;
+  background: black;
+  color: red;
+}
+
+#contactform .btn:hover {
+  background: darkgray;
+}
